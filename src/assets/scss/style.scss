@@ -47,11 +47,11 @@ File: style.css
 @import "partials/theme-elements/modal";
 
 // Other
-@import "partials/other/chat";
-@import "partials/other/prism";
-@import "partials/other/Switches";
+@import "node_modules/partials/other/chat";
+@import "node_modules/partials/other/prism";
+@import "node_modules/partials/other/Switches";
 
-@import "partials/other/chart";
-@import "partials/other/icon-lauouts";
+@import "node_modules/partials/other/chart";
+@import "node_modules/partials/other/icon-lauouts";
 
-@import "partials/third-party/third-party";
+@import "node_modules/partials/third-party/third-party";
